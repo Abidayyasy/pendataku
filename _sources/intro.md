@@ -1,11 +1,7 @@
-# Welcome to your Jupyter Book
+# Bienvenido a tu Libro de Minería de Datos  
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Este es un pequeño libro de muestra para que te hagas una idea de cómo se estructura el contenido sobre minería de datos.  
+Muestra algunos de los conceptos clave, así como ejemplos prácticos.  
+No profundiza en ningún tema en particular; consulta fuentes especializadas para obtener más información.  
 
-Check out the content pages bundled with this sample book to see more.
-
-```{tableofcontents}
-```
+Explora las secciones de este libro para conocer más sobre minería de datos.
