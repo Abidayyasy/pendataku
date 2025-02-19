@@ -1,7 +1,7 @@
 # Buku Penambangan Data  
 
-Ini adalah buku contoh kecil untuk memberi Anda gambaran tentang bagaimana struktur konten tentang penambangan data.  
-Buku ini menampilkan beberapa konsep utama serta contoh praktis.  
-Buku ini tidak membahas secara mendalam topik tertentu; silakan merujuk ke sumber khusus untuk informasi lebih lanjut.  
+Perkenalkan nama saya Muhammad Abid Ayyasy, saya adalah seorang mahasiswa dengan NIM 230411100042 yang sedang mengambil mata kuliah penambangan data
 
-Jelajahi bagian-bagian dalam buku ini untuk mempelajari lebih lanjut tentang penambangan data.
+Projek ini bertujuan untuk mendokumentasikan setiap materi penambangan data selama satu semester 
+
+Hubungi email abid.ays23456@gmail.com
